@@ -48,9 +48,9 @@
 &nbsp;
 &nbsp;
 
-### Social:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3RciT2x)&nbsp;
+
 <!---
+### Social:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://bit.ly/46JpqY0)&nbsp;
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://bit.ly/47JBlX7)&nbsp;
 
@@ -66,6 +66,7 @@
 ## Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3RvVFFX)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffinho.angelo@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3RciT2x)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
