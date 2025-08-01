@@ -9,7 +9,7 @@
 - Computer Engineer from Unisal 
 - Postgraduate in Full Stack development from PUC
 
-With solid experience in marketing campaigns (paid medias, e-mail, SMS) and businnes intelligence
+With solid experience in marketing campaigns (paid medias, e-mail, SMS) and business intelligence
 
 ## Main skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
