@@ -4,8 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dutra;I+am+from+Passa+Quatro,+MG;I+am+Computer+Engineer;I+study+FullStack+Development+at+PUC+Minas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 -->
+## About Me
+- Electronics technician from Unisal
+- Computer Engineer from Unisal 
+- Postgraduate in full-stack development from PUC
 
-## Main skills:
+With solid experience in marketing campaigns (paid medias, e-mail, SMS) and businnes intelligence
+
+## Main skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
@@ -27,7 +33,7 @@
 &nbsp; 
 &nbsp;
 
-## Studying in this moment:
+## Studying in this moment
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
@@ -61,7 +67,7 @@
 &nbsp;
 &nbsp;
 
-## Contact Me:
+## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bit.ly/3RvVFFX)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeffinho.angelo@gmail.com)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bit.ly/3RciT2x)&nbsp;
