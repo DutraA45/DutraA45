@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Dutra;I+am+from+Passa+Quatro,+MG;I+am+Computer+Engineer;I+study+FullStack+Development+at+PUC+Minas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 -->
 ## About Me
-- Electronics technician from Colégio São Miguel
-- Computer Engineer from Unisal 
 - Postgraduate in Full Stack development from PUC
+- - Computer Engineer from Unisal 
+- Electronics technician from Colégio São Miguel
 
 With solid experience in marketing campaigns (paid medias, e-mail, SMS) and business intelligence
 
