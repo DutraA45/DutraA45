@@ -6,7 +6,7 @@
 -->
 ## About Me
 - Postgraduate in Full Stack development from PUC
-- - Computer Engineer from Unisal 
+- Computer Engineer from Unisal 
 - Electronics technician from Colégio São Miguel
 
 With solid experience in marketing campaigns (paid medias, e-mail, SMS) and business intelligence
